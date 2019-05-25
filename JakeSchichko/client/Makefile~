@@ -1,0 +1,4 @@
+server: server.c DieWithError.c
+	cc server.c DieWithError.c -o server
+client: client.c DieWithError.cc	
+	cc client.c DieWithError.c -o client

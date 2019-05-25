@@ -1,0 +1,787 @@
+Size of N 2Probability 0.500000Here AgainHandling client 127.0.0.1
+File Exists 
+
+Total Size:27
+Number of Packets: 6
+New Loop Packets Left: 6
+Random 0.840188
+
+Sending Packet Number: 0
+sendMSgSize:5
+
+Buff:abcd
+Checksum: 394
+
+
+New Loop Packets Left: 6
+Random 0.394383
+
+Sending Packet Number: 1
+sendMSgSize:5
+
+Buff:efgh
+Bitflip!
+Checksum: 411
+
+
+New Loop Packets Left: 6
+IN ELSE
+ACK:0
+NEXT ACK:0ACK:0
+SZ : 19SENT BEFORE:2
+SENT AFTER:0
+ARRAY:0 0
+Sizes:27 0
+
+New Loop Packets Left: 5
+Random 0.783099
+
+Sending Packet Number: 2
+sendMSgSize:5
+
+Buff:ijkl
+Checksum: 426
+
+
+New Loop Packets Left: 5
+IN ELSE
+ACK:0
+NEXT ACK:1ARRAY:2 0
+Sizes:19 0
+Must wait
+ACK:0Size of N: 2Must go to byte 23 Bytes
+New Loop Packets Left: 5
+Random 0.798440
+
+Sending Packet Number: 1
+sendMSgSize:5
+
+Buff:efgh
+Checksum: 410
+
+
+New Loop Packets Left: 5
+IN ELSE
+ACK:0
+NEXT ACK:1ARRAY:2 0
+Sizes:19 0
+Must wait
+ACK:0Size of N: 2Must go to byte 23 Bytes
+New Loop Packets Left: 5
+Random 0.911647
+
+Sending Packet Number: 1
+sendMSgSize:5
+
+Buff:efgh
+Checksum: 410
+
+
+New Loop Packets Left: 5
+IN ELSE
+ACK:1
+NEXT ACK:1ACK:1
+SZ : 19SENT BEFORE:3
+SENT AFTER:1
+ARRAY:2 0
+Sizes:19 0
+
+New Loop Packets Left: 4
+Random 0.197551
+
+Sending Packet Number: 2
+sendMSgSize:5
+
+Buff:ijkl
+Bitflip!
+Checksum: 427
+
+
+New Loop Packets Left: 4
+IN ELSE
+ACK:1
+NEXT ACK:2ARRAY:2 1
+Sizes:19 1
+Must wait
+ACK:1Size of N: 2Must go to byte 19 Bytes
+New Loop Packets Left: 4
+Random 0.335223
+
+Sending Packet Number: 2
+sendMSgSize:5
+
+Buff:ijkl
+Bitflip!
+Checksum: 427
+
+
+New Loop Packets Left: 4
+IN ELSE
+ACK:1
+NEXT ACK:2ARRAY:2 1
+Sizes:19 1
+Must wait
+ACK:1Size of N: 2Must go to byte 19 Bytes
+New Loop Packets Left: 4
+Random 0.768230
+
+Sending Packet Number: 2
+sendMSgSize:5
+
+Buff:ijkl
+Checksum: 426
+
+
+New Loop Packets Left: 4
+IN ELSE
+ACK:1
+NEXT ACK:2ARRAY:2 1
+Sizes:19 1
+Must wait
+ACK:1Size of N: 2Must go to byte 19 Bytes
+New Loop Packets Left: 4
+Random 0.277775
+
+Sending Packet Number: 2
+sendMSgSize:5
+
+Buff:ijkl
+Bitflip!
+Checksum: 427
+
+
+New Loop Packets Left: 4
+IN ELSE
+ACK:2
+NEXT ACK:2ACK:2
+SZ : 15SENT BEFORE:5
+SENT AFTER:1
+ARRAY:2 0
+Sizes:2 0
+
+New Loop Packets Left: 3
+Random 0.553970
+
+Sending Packet Number: 3
+sendMSgSize:5
+
+Buff:mnop
+Checksum: 442
+
+
+New Loop Packets Left: 3
+IN ELSE
+ACK:2
+NEXT ACK:3ARRAY:2 0
+Sizes:2 0
+Must wait
+ACK:2Size of N: 2Must go to byte 15 Bytes
+New Loop Packets Left: 3
+Random 0.477397
+
+Sending Packet Number: 3
+sendMSgSize:5
+
+Buff:mnop
+Bitflip!
+Checksum: 443
+
+
+New Loop Packets Left: 3
+IN ELSE
+ACK:3
+NEXT ACK:3ACK:3
+SZ : 11SENT BEFORE:3
+SENT AFTER:1
+ARRAY:2 0
+Sizes:2 0
+
+New Loop Packets Left: 2
+Random 0.628871
+
+Sending Packet Number: 4
+sendMSgSize:5
+
+Buff:qrst
+Checksum: 458
+
+
+New Loop Packets Left: 2
+IN ELSE
+ACK:3
+NEXT ACK:4ARRAY:4 1
+Sizes:11 1
+Must wait
+ACK:3Size of N: 2Must go to byte 2 Bytes
+New Loop Packets Left: 2
+Random 0.364784
+
+Sending Packet Number: 2
+sendMSgSize:3
+
+Buff:z
+
+Bitflip!
+Checksum: 133
+
+
+New Loop Packets Left: 2
+IN ELSE
+ACK:4
+NEXT ACK:4ACK:4
+SZ : 0SENT BEFORE:3
+SENT AFTER:1
+ARRAY:2 0
+Sizes:2 0
+
+New Loop Packets Left: 1
+IN ELSE
+ACK:4
+NEXT ACK:5ARRAY:2 0
+Sizes:2 0
+Must wait
+ACK:4Size of N: 2Must go to byte 11 Bytes
+New Loop Packets Left: 1
+Random 0.513401
+
+Sending Packet Number: 4
+sendMSgSize:5
+
+Buff:qrst
+Checksum: 458
+
+
+New Loop Packets Left: 1
+Random 0.952230
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Checksum: 474
+
+
+New Loop Packets Left: 1
+IN ELSE
+ACK:4
+NEXT ACK:5ARRAY:2 0
+Sizes:2 0
+Must wait
+ACK:4Size of N: 2Must go to byte 11 Bytes
+New Loop Packets Left: 1
+Random 0.916195
+
+Sending Packet Number: 4
+sendMSgSize:5
+
+Buff:qrst
+Checksum: 458
+
+
+New Loop Packets Left: 1
+IN ELSE
+ACK:5
+NEXT ACK:5ACK:5
+SZ : 7SENT BEFORE:4
+SENT AFTER:0
+ARRAY:2 0
+Sizes:2 0
+
+New Loop Packets Left: 0
+Random 0.635712
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Checksum: 474
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:4 1
+Sizes:11 1
+Must wait
+ACK:5Size of N: 2Must go to byte 7 Bytes
+New Loop Packets Left: 0
+Random 0.717297
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Checksum: 474
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:7 1
+Must wait
+ACK:5Size of N: 2Must go to byte 7 Bytes
+New Loop Packets Left: 0
+Random 0.141603
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Bitflip!
+Checksum: 475
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:7 1
+Must wait
+ACK:5Size of N: 2Must go to byte 7 Bytes
+New Loop Packets Left: 0
+Random 0.606969
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Checksum: 474
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:7 1
+Must wait
+ACK:5Size of N: 2Must go to byte 7 Bytes
+New Loop Packets Left: 0
+Random 0.016301
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:uvwx
+Bitflip!
+Checksum: 475
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:7 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.242887
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.137232
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.804177
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.156679
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.400944
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.129790
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.108809
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.998925
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.218257
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.512932
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.839112
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.612640
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.296032
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.637552
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.524287
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.493583
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.972775
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 487
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.292517
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.771358
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.526745
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:
+Checksum: 243
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.769914
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wx
+Checksum: 244
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.400229
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.891529
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Checksum: 482
+
+
+New Loop Packets Left: 0
+IN ELSE
+ACK:5
+NEXT ACK:6ARRAY:5 1
+Sizes:5 1
+Must wait
+ACK:5Size of N: 2Must go to byte 5 Bytes
+New Loop Packets Left: 0
+Random 0.283315
+
+Sending Packet Number: 5
+sendMSgSize:5
+
+Buff:wxyz
+Bitflip!
+Checksum: 483
